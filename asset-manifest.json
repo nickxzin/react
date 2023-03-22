@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react/costs/src/App.js/static/css/main.c2e7bb6f.css",
-    "main.js": "/react/costs/src/App.js/static/js/main.5672afab.js",
-    "static/media/savings.svg": "/react/costs/src/App.js/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/react/costs/src/App.js/index.html",
-    "static/media/loading.svg": "/react/costs/src/App.js/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.c2e7bb6f.css.map": "/react/costs/src/App.js/static/css/main.c2e7bb6f.css.map",
-    "main.5672afab.js.map": "/react/costs/src/App.js/static/js/main.5672afab.js.map"
+    "main.css": "/react/costs/static/css/main.c2e7bb6f.css",
+    "main.js": "/react/costs/static/js/main.9024d9e1.js",
+    "static/media/savings.svg": "/react/costs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/react/costs/index.html",
+    "static/media/loading.svg": "/react/costs/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.c2e7bb6f.css.map": "/react/costs/static/css/main.c2e7bb6f.css.map",
+    "main.9024d9e1.js.map": "/react/costs/static/js/main.9024d9e1.js.map"
   },
   "entrypoints": [
     "static/css/main.c2e7bb6f.css",
-    "static/js/main.5672afab.js"
+    "static/js/main.9024d9e1.js"
   ]
 }
