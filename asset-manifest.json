@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-react/static/css/main.b1e25c02.css",
-    "main.js": "/react-react/static/js/main.93c4f15e.js",
-    "static/media/savings.svg": "/react-react/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/react-react/index.html",
-    "static/media/loading.svg": "/react-react/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.b1e25c02.css.map": "/react-react/static/css/main.b1e25c02.css.map",
-    "main.93c4f15e.js.map": "/react-react/static/js/main.93c4f15e.js.map"
+    "main.css": "/react/static/css/main.b1e25c02.css",
+    "main.js": "/react/static/js/main.e9aef1d5.js",
+    "static/media/savings.svg": "/react/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/react/index.html",
+    "static/media/loading.svg": "/react/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.b1e25c02.css.map": "/react/static/css/main.b1e25c02.css.map",
+    "main.e9aef1d5.js.map": "/react/static/js/main.e9aef1d5.js.map"
   },
   "entrypoints": [
     "static/css/main.b1e25c02.css",
-    "static/js/main.93c4f15e.js"
+    "static/js/main.e9aef1d5.js"
   ]
 }
