@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "name": "projeto atualizado",
+      "budget": "1600",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "ZIRA",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "Contratar DEV PQP",
+          "cost": "500",
+          "description": "Vai Criar a função de envio de emails",
+          "id": "8ad3a7d9-b8ab-4fd6-a398-765e459c6f2f"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "bd958931-93cb-4e36-84af-8354bc502642"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

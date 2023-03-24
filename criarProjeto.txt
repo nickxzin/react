@@ -1,0 +1,13 @@
+Como criar um Projeto?
+Simples segue o fio..
+
+-ABRIR O TERMINAL (OPEN IN INTEGRATED TERMINAL)
+~~Verificar se tem o node e o npm -> node -v / -> npm -v
+
+-npx create-react-app nome_do_projeto
+
+-SE não estiver o terminal aberto na pasta que criou dê para abrir a pasta do projeto e poder rodar
+
+-cd nome_do_projeto
+
+-npm start
